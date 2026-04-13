@@ -26,14 +26,6 @@ Soy una **Desarrolladora Full Stack** especializada en transformar procesos de n
 
 ---
 
-### 📊 Estadísticas de GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosselineMtnz&layout=compact&theme=radical&langs_count=6" />
-</p>
-
----
-
 ### 💡 Soft Skills & Negocios
 * **Pensamiento Analítico:** Optimización de procesos para mejorar la eficiencia operativa.
 * **Liderazgo Técnico:** Capacidad para guiar entregas de valor continuo en entornos críticos.
